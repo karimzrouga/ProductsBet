@@ -1,0 +1,2 @@
+# ProductsBet
+Product bet est une plateforme de ventes des produits aux enchères, d’achat Le système d'enchères gratuites C’est très simple : le prix d’achat de chacun des produits que nous mettons en vente sur le site est soumis à une enchère pour un temps limité. Ainsi c’est vous qui décidez de la somme que vous voulez débourser. Si le prix de l’objet s’envole lors de l’enchère, libre à vous de vous arrêter là. Cependant si aucun autre participant ne surenchérit sur votre dernière proposition de prix et période limitée se termine, à vous le dernier produit.
